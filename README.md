@@ -83,14 +83,6 @@ Open your browser at [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 🖼️ Screenshot (Optional)
-
-<!-- You can add a screenshot here -->
-
-<!-- ![App Screenshot](screenshot.png) -->
-
----
-
 ## 📚 Tech Stack
 
 * Python
@@ -126,8 +118,4 @@ MIT License. Feel free to use and adapt.
    git push
 ````
 
-Now your GitHub repo will look polished and professional.
-Want to add a **project screenshot** too? Just ask — I’ll help format it.
-
-Let me know once it’s live or if you want badges/customizations!
 
